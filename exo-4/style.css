@@ -1,0 +1,16 @@
+
+.page{
+    margin: 5% 5% 0% 5%;
+    background-color: #8542A7;
+    box-shadow: 18px 0px 18px black;
+    color: white;
+    font-size: 3em;
+}
+.boxButton{
+    height: 100px;
+    width: 40%;
+    margin-left: 50px;
+}
+strong{
+    color: #FD2D61;
+}

@@ -1,0 +1,11 @@
+
+.page{
+    margin: 5% 5% 0% 5%;
+    background-color: #D90030;
+    box-shadow: 18px 0px 18px black;
+    color: white;
+    font-size: 4em;
+}
+.boxButton{
+    margin: 0 20% 0 0;
+}
